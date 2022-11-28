@@ -1,0 +1,664 @@
+﻿CustomerID;CustomerName;CityID;AccountOpenedDate
+1;Tailspin Toys (Head Office);19586;2013-01-01
+2;Tailspin Toys (Sylvanite, MT);33475;2013-01-01
+3;Tailspin Toys (Peeples Valley, AZ);26483;2013-01-01
+4;Tailspin Toys (Medicine Lodge, KS);21692;2013-01-01
+5;Tailspin Toys (Gasport, NY);12748;2013-01-01
+6;Tailspin Toys (Jessie, ND);17054;2013-01-01
+7;Tailspin Toys (Frankewing, TN);12152;2013-01-01
+8;Tailspin Toys (Bow Mar, CO);3673;2013-01-01
+9;Tailspin Toys (Netcong, NJ);23805;2013-01-01
+10;Tailspin Toys (Wimbledon, ND);37403;2013-01-01
+11;Tailspin Toys (Devault, PA);8987;2013-01-01
+12;Tailspin Toys (Biscay, MN);3081;2013-01-01
+13;Tailspin Toys (Stonefort, IL);32887;2013-01-01
+14;Tailspin Toys (Long Meadow, MD);19908;2013-01-01
+15;Tailspin Toys (Batson, TX);2111;2013-01-01
+16;Tailspin Toys (Coney Island, MO);7409;2013-01-01
+17;Tailspin Toys (East Fultonham, OH);9791;2013-01-01
+18;Tailspin Toys (Goffstown, NH);13304;2013-01-01
+19;Tailspin Toys (Lemeta, AK);19124;2013-01-01
+20;Tailspin Toys (College Place, WA);7160;2013-01-01
+21;Tailspin Toys (Tresckow, PA);34403;2013-01-01
+22;Tailspin Toys (Ward Ridge, FL);35844;2013-01-01
+23;Tailspin Toys (Ikatan, AK);16411;2013-01-01
+24;Tailspin Toys (Dundarrach, NC);9524;2013-01-01
+25;Tailspin Toys (Avenal, CA);1604;2013-01-01
+26;Tailspin Toys (Hedrick, IA);15102;2013-01-01
+27;Tailspin Toys (Bowlus, MN);3707;2013-01-01
+28;Tailspin Toys (North Ridge, NY);24700;2013-01-01
+29;Tailspin Toys (Eulaton, AL);10910;2013-01-01
+30;Tailspin Toys (Koontzville, WA);17999;2013-01-01
+31;Tailspin Toys (Lake Stevens, WA);18460;2013-01-01
+32;Tailspin Toys (Maypearl, TX);21367;2013-01-01
+33;Tailspin Toys (Boyden Arbor, SC);3736;2013-01-01
+34;Tailspin Toys (Dallardsville, TX);8375;2013-01-01
+35;Tailspin Toys (Slanesville, WV);31758;2013-01-01
+36;Tailspin Toys (Ekron, KY);10193;2013-01-01
+37;Tailspin Toys (Kerby, OR);17591;2013-01-01
+38;Tailspin Toys (Airport Drive, MO);232;2013-01-01
+39;Tailspin Toys (Diablock, KY);9040;2013-01-01
+40;Tailspin Toys (Impact, TX);16433;2013-01-01
+41;Tailspin Toys (Olivette, MO);25376;2013-01-01
+42;Tailspin Toys (Arietta, NY);1132;2013-01-01
+43;Tailspin Toys (Upper Preston, WA);34910;2013-01-01
+44;Tailspin Toys (Amanda Park, WA);696;2013-01-01
+45;Tailspin Toys (Severna Park, MD);31104;2013-01-01
+46;Tailspin Toys (Jemison, AL);16992;2013-01-01
+47;Tailspin Toys (Lake Hughes, CA);18375;2013-01-01
+48;Tailspin Toys (Trentwood, WA);34400;2013-01-01
+49;Tailspin Toys (Muir, MI);23396;2013-01-01
+50;Tailspin Toys (Hambleton, WV);14380;2013-01-01
+51;Tailspin Toys (Imlaystown, NJ);16430;2013-01-01
+52;Tailspin Toys (Idria, CA);16401;2013-01-01
+53;Tailspin Toys (Nanafalia, AL);23560;2013-01-01
+54;Tailspin Toys (Railroad, PA);28222;2013-01-01
+55;Tailspin Toys (Gum Branch, GA);14194;2013-01-01
+56;Tailspin Toys (Royal City, WA);29729;2013-01-01
+57;Tailspin Toys (Lakemore, OH);18514;2013-01-01
+58;Tailspin Toys (Mappsburg, VA);20868;2013-01-01
+59;Tailspin Toys (Edgartown, MA);10055;2013-01-01
+60;Tailspin Toys (East Dailey, WV);9772;2013-01-01
+61;Tailspin Toys (Fairfield Glade, TN);11131;2013-01-01
+62;Tailspin Toys (Great Neck Estates, NY);13800;2013-01-01
+63;Tailspin Toys (Stallion Springs, CA);32561;2013-01-01
+64;Tailspin Toys (Hodgdon, ME);15646;2013-01-01
+65;Tailspin Toys (North Cowden, TX);24579;2013-01-01
+66;Tailspin Toys (Madaket, MA);20475;2013-01-01
+67;Tailspin Toys (Sentinel Butte, ND);31075;2013-01-01
+68;Tailspin Toys (Gardere, LA);12653;2013-01-01
+69;Tailspin Toys (Lytle Creek, CA);20413;2013-01-01
+70;Tailspin Toys (New Baden, IL);23843;2013-01-01
+71;Tailspin Toys (Good Hart, MI);13375;2013-01-01
+72;Tailspin Toys (Cortaro, AZ);7672;2013-01-01
+73;Tailspin Toys (Cokato, MN);7071;2013-01-01
+74;Tailspin Toys (Indios, PR);16520;2013-01-01
+75;Tailspin Toys (Windsor Locks, CT);37473;2013-01-01
+76;Tailspin Toys (Yewed, OK);38042;2013-01-01
+77;Tailspin Toys (Hahira, GA);14287;2013-01-01
+78;Tailspin Toys (Sekiu, WA);31010;2013-01-01
+79;Tailspin Toys (Page City, KS);25933;2013-01-01
+80;Tailspin Toys (Valdese, NC);34990;2013-01-01
+81;Tailspin Toys (Big Moose, NY);2971;2013-01-01
+82;Tailspin Toys (La Cueva, NM);18087;2013-01-01
+83;Tailspin Toys (Absecon, NJ);49;2013-01-01
+84;Tailspin Toys (Aceitunas, PR);58;2013-01-01
+85;Tailspin Toys (Andrix, CO);843;2013-01-01
+86;Tailspin Toys (New Lexington, OH);24014;2013-01-01
+87;Tailspin Toys (Sauquoit, NY);30698;2013-01-01
+88;Tailspin Toys (Dracut, MA);9379;2013-01-01
+89;Tailspin Toys (Victory Gardens, NJ);35344;2013-01-01
+90;Tailspin Toys (Tolna, ND);34192;2013-01-01
+91;Tailspin Toys (Alstead, NH);600;2013-01-01
+92;Tailspin Toys (Sans Souci, SC);30548;2013-01-01
+93;Tailspin Toys (Clewiston, FL);6809;2013-01-01
+94;Tailspin Toys (Cheyenne Wells, CO);6327;2013-01-01
+95;Tailspin Toys (Lavon, TX);18882;2013-01-01
+96;Tailspin Toys (South La Paloma, TX);32124;2013-01-01
+97;Tailspin Toys (Manchester Center, VT);20710;2013-01-01
+98;Tailspin Toys (El Centro, CA);10199;2013-01-01
+99;Tailspin Toys (Guin, AL);14173;2013-01-01
+100;Tailspin Toys (Tunnelhill, PA);34584;2013-01-01
+101;Tailspin Toys (Cundiyo, NM);8227;2013-01-01
+102;Tailspin Toys (Fieldbrook, CA);11520;2013-01-01
+103;Tailspin Toys (Kalvesta, KS);17306;2013-01-01
+104;Tailspin Toys (Wallagrass, ME);35712;2013-01-01
+105;Tailspin Toys (Tomnolen, MS);34208;2013-01-01
+106;Tailspin Toys (Tumacacori, AZ);34568;2013-01-01
+107;Tailspin Toys (Glen Avon, CA);13109;2013-01-01
+108;Tailspin Toys (Bernie, MO);2789;2013-01-01
+109;Tailspin Toys (South Laguna, CA);32126;2013-01-01
+110;Tailspin Toys (North Crows Nest, IN);24583;2013-01-01
+111;Tailspin Toys (Oriole Beach, FL);25595;2013-01-01
+112;Tailspin Toys (Sallyards, KS);30288;2013-01-01
+113;Tailspin Toys (Dahlia, NM);8337;2013-01-01
+114;Tailspin Toys (Cherry Grove Beach, SC);6221;2013-01-01
+115;Tailspin Toys (Bethania, NC);2838;2013-01-01
+116;Tailspin Toys (Rafael Capó, PR);28210;2013-01-01
+117;Tailspin Toys (Scofield, UT);30839;2013-01-01
+118;Tailspin Toys (Vassalboro, ME);35160;2013-01-01
+119;Tailspin Toys (Statenville, GA);32688;2013-01-01
+120;Tailspin Toys (Bratenahl, OH);3893;2013-01-01
+121;Tailspin Toys (Elrosa, MN);10561;2013-01-01
+122;Tailspin Toys (McClave, CO);21439;2013-01-01
+123;Tailspin Toys (Roe Park, NY);29371;2013-01-01
+124;Tailspin Toys (Hanoverton, OH);14556;2013-01-01
+125;Tailspin Toys (Annamoriah, WV);890;2013-01-01
+126;Tailspin Toys (Francis Mills, NJ);12142;2013-01-01
+127;Tailspin Toys (Point Roberts, WA);27424;2013-01-01
+128;Tailspin Toys (East Portal, CO);9884;2013-01-01
+129;Tailspin Toys (Mineral Hills, MI);22430;2013-01-01
+130;Tailspin Toys (Maple Shade, NJ);20846;2013-01-01
+131;Tailspin Toys (Kwethluk, AK);18058;2013-01-01
+132;Tailspin Toys (Minidoka, ID);22453;2013-01-01
+133;Tailspin Toys (Lake Erie Beach, NY);18346;2013-01-01
+134;Tailspin Toys (Tavares, FL);33660;2013-01-01
+135;Tailspin Toys (Terre du Lac, MO);33806;2013-01-01
+136;Tailspin Toys (Mount Montgomery, NV);23229;2013-01-01
+137;Tailspin Toys (Carbonville, UT);5304;2013-01-01
+138;Tailspin Toys (Navassa, NC);23687;2013-01-01
+139;Tailspin Toys (Hardeeville, SC);14596;2013-01-01
+140;Tailspin Toys (Furley, KS);12483;2013-01-01
+141;Tailspin Toys (Arrow Rock, MO);1244;2013-01-01
+142;Tailspin Toys (King Cove, AK);17742;2013-01-01
+143;Tailspin Toys (Ashtabula, OH);1343;2013-01-01
+144;Tailspin Toys (Larose, LA);18772;2013-01-01
+145;Tailspin Toys (Manahawkin, NJ);20672;2013-01-01
+146;Tailspin Toys (Belgreen, AL);2425;2013-01-01
+147;Tailspin Toys (Fishtail, MT);11597;2013-01-01
+148;Tailspin Toys (Baraboo, WI);1904;2013-01-01
+149;Tailspin Toys (Inguadona, MN);16557;2013-01-01
+150;Tailspin Toys (Corfu, NY);7594;2013-01-01
+151;Tailspin Toys (Antares, AZ);928;2013-01-01
+152;Tailspin Toys (Sun River, MT);33227;2013-01-01
+153;Tailspin Toys (Marcell, MN);20901;2013-01-01
+154;Tailspin Toys (Eden Valley, MN);10043;2013-01-01
+155;Tailspin Toys (Arbor Vitae, WI);1040;2013-01-01
+156;Tailspin Toys (Hollywood Park, TX);15783;2013-01-01
+157;Tailspin Toys (Saks, AL);30216;2013-01-01
+158;Tailspin Toys (Donner, LA);9237;2013-01-01
+159;Tailspin Toys (Saint Louis Park, MN);30132;2013-01-01
+160;Tailspin Toys (Crary, ND);7914;2013-01-01
+161;Tailspin Toys (Aspen Park, CO);1366;2013-01-01
+162;Tailspin Toys (Glen Park, NY);13136;2013-01-01
+163;Tailspin Toys (Panaca, NV);26076;2013-01-01
+164;Tailspin Toys (Rothsville, PA);29651;2013-01-01
+165;Tailspin Toys (Topstone, CT);34256;2013-01-01
+166;Tailspin Toys (McCamey, TX);21431;2013-01-01
+167;Tailspin Toys (Rockwall, TX);29320;2013-01-01
+168;Tailspin Toys (Seagraves, TX);30926;2013-01-01
+169;Tailspin Toys (Sinclair, WY);31685;2013-01-01
+170;Tailspin Toys (Eastchester, NY);9932;2013-01-01
+171;Tailspin Toys (Ortley Beach, NJ);25653;2013-01-01
+172;Tailspin Toys (Madrone, NM);20535;2013-01-01
+173;Tailspin Toys (Wappingers Falls, NY);35833;2013-01-01
+174;Tailspin Toys (Astor Park, FL);1380;2013-01-01
+175;Tailspin Toys (San Acacia, NM);30342;2013-01-01
+176;Tailspin Toys (Malott, WA);20642;2013-01-01
+177;Tailspin Toys (Orrtanna, PA);25646;2013-01-01
+178;Tailspin Toys (Armstrong Creek, WI);1207;2013-01-01
+179;Tailspin Toys (Hiteman, IA);15610;2013-01-01
+180;Tailspin Toys (Caselton, NV);5540;2013-01-01
+181;Tailspin Toys (Heilwood, PA);15118;2013-01-01
+182;Tailspin Toys (Hayes Center, NE);14977;2013-01-01
+183;Tailspin Toys (Tierra Verde, FL);34028;2013-01-01
+184;Tailspin Toys (South Euclid, OH);32083;2013-01-01
+185;Tailspin Toys (Vidrine, LA);35355;2013-01-01
+186;Tailspin Toys (Placer, OR);27166;2013-01-01
+187;Tailspin Toys (Brown City, MI);4291;2013-01-01
+188;Tailspin Toys (Premont, TX);27840;2013-01-01
+189;Tailspin Toys (Wilkes-Barre, PA);37194;2013-01-01
+190;Tailspin Toys (Teutopolis, IL);33832;2013-01-01
+191;Tailspin Toys (Orchard Hill, GA);25552;2013-01-01
+192;Tailspin Toys (Optimo, NM);25505;2013-01-01
+193;Tailspin Toys (Knifley, KY);17931;2013-01-01
+194;Tailspin Toys (Naples Park, FL);23592;2013-01-01
+195;Tailspin Toys (Lesslie, SC);19232;2013-01-01
+196;Tailspin Toys (Howells, NE);16090;2013-01-01
+197;Tailspin Toys (Magalia, CA);20538;2013-01-01
+198;Tailspin Toys (Buell, MO);4491;2013-01-01
+199;Tailspin Toys (Antonito, CO);962;2013-01-01
+200;Tailspin Toys (Tooele, UT);34230;2013-01-01
+201;Tailspin Toys (Skyway, WA);31752;2013-01-01
+401;Wingtip Toys (Head Office);25555;2013-01-01
+402;Wingtip Toys (Black Lick, PA);3127;2013-01-01
+403;Wingtip Toys (Queen Valley, AZ);28129;2013-01-01
+404;Wingtip Toys (Penns Creek, PA);26579;2013-01-01
+405;Wingtip Toys (Bourbonnais, IL);3659;2013-01-01
+406;Wingtip Toys (Tuscaloosa, AL);34633;2013-01-01
+407;Wingtip Toys (Mooringsport, LA);22903;2013-01-01
+408;Wingtip Toys (Rockwall, TX);29320;2013-01-01
+409;Wingtip Toys (Orick, CA);25581;2013-01-01
+410;Wingtip Toys (Bernstein, TX);2791;2013-01-01
+411;Wingtip Toys (Edmund, WI);10134;2013-01-01
+412;Wingtip Toys (Bozeman Hot Springs, MT);3762;2013-01-01
+413;Wingtip Toys (Truscott, TX);34519;2013-01-01
+414;Wingtip Toys (Rose Tree, PA);29530;2013-01-01
+415;Wingtip Toys (Leathersville, GA);18983;2013-01-01
+416;Wingtip Toys (Necedah, WI);23707;2013-01-01
+417;Wingtip Toys (Chetek, WI);6313;2013-01-01
+418;Wingtip Toys (Yaak, MT);37969;2013-01-01
+419;Wingtip Toys (Compass Lake, FL);7343;2013-01-01
+420;Wingtip Toys (Herlong, CA);15248;2013-01-01
+421;Wingtip Toys (Highland Home, AL);15434;2013-01-01
+422;Wingtip Toys (Naches, WA);23542;2013-01-01
+423;Wingtip Toys (Baldwin City, KS);1811;2013-01-01
+424;Wingtip Toys (Heartwell, NE);15057;2013-01-01
+425;Wingtip Toys (Bethel Acres, OK);2862;2013-01-01
+426;Wingtip Toys (Willow Valley, AZ);37316;2013-01-01
+427;Wingtip Toys (Athol Springs, NY);1417;2013-01-01
+428;Wingtip Toys (Paw Paw Lake, MI);26376;2013-01-01
+429;Wingtip Toys (Lilbourn, MO);19405;2013-01-01
+430;Wingtip Toys (Lost River, ID);20043;2013-01-01
+431;Wingtip Toys (Rosa Sánchez, PR);29490;2013-01-01
+432;Wingtip Toys (Vamo, FL);35078;2013-01-01
+433;Wingtip Toys (Balko, OK);1820;2013-01-01
+434;Wingtip Toys (Lime Lake, NY);19434;2013-01-01
+435;Wingtip Toys (Teutopolis, IL);33832;2013-01-01
+436;Wingtip Toys (Gargatha, VA);12680;2013-01-01
+437;Wingtip Toys (Cadogan, PA);4860;2013-01-01
+438;Wingtip Toys (Lucasville, OH);20189;2013-01-01
+439;Wingtip Toys (Cylon, WI);8306;2013-01-01
+440;Wingtip Toys (Asher, OK);1299;2013-01-01
+441;Wingtip Toys (Keosauqua, IA);17587;2013-01-01
+442;Wingtip Toys (Homer City, PA);15835;2013-01-01
+443;Wingtip Toys (Berville, MI);2815;2013-01-01
+444;Wingtip Toys (Tea, SD);33701;2013-01-01
+445;Wingtip Toys (Dacono, CO);8322;2013-01-01
+446;Wingtip Toys (Saint Landry, LA);30119;2013-01-01
+447;Wingtip Toys (Coin, IA);7069;2013-01-01
+448;Wingtip Toys (Salt Wells, NV);30304;2013-01-01
+449;Wingtip Toys (Delray, WV);8839;2013-01-01
+450;Wingtip Toys (Mount Summit, IN);23284;2013-01-01
+451;Wingtip Toys (Smoot, WY);31870;2013-01-01
+452;Wingtip Toys (Lake Davis, CA);18340;2013-01-01
+453;Wingtip Toys (Stanardsville, VA);32575;2013-01-01
+454;Wingtip Toys (Corcovado, PR);7576;2013-01-01
+455;Wingtip Toys (Taft Heights, CA);33520;2013-01-01
+456;Wingtip Toys (West Hempstead, NY);36531;2013-01-01
+457;Wingtip Toys (Portales, NM);27648;2013-01-01
+458;Wingtip Toys (Coker, AL);7074;2013-01-01
+459;Wingtip Toys (Haydenville, OH);14974;2013-01-01
+460;Wingtip Toys (Mayhill, NM);21351;2013-01-01
+461;Wingtip Toys (Vair, TX);34984;2013-01-01
+462;Wingtip Toys (Crossroads, NM);8082;2013-01-01
+463;Wingtip Toys (Cowlington, OK);7847;2013-01-01
+464;Wingtip Toys (Glen Ullin, ND);13146;2013-01-01
+465;Wingtip Toys (Oologah, OK);25479;2013-01-01
+466;Wingtip Toys (Lytle, TX);20412;2013-01-01
+467;Wingtip Toys (Mahaffey, PA);20575;2013-01-01
+468;Wingtip Toys (Sunburg, MN);33237;2013-01-01
+469;Wingtip Toys (Johnetta, KY);17093;2013-01-01
+470;Wingtip Toys (Universal City, TX);34875;2013-01-01
+471;Wingtip Toys (Ridgemark, CA);28907;2013-01-01
+472;Wingtip Toys (San Jacinto, CA);30387;2013-01-01
+473;Wingtip Toys (Floriston, CA);11747;2013-01-01
+474;Wingtip Toys (Bokeelia, FL);3463;2013-01-01
+475;Wingtip Toys (Cale, AR);4900;2013-01-01
+476;Wingtip Toys (Karthaus, PA);17353;2013-01-01
+477;Wingtip Toys (Glancy, MS);13068;2013-01-01
+478;Wingtip Toys (Stoneboro, PA);32885;2013-01-01
+479;Wingtip Toys (Mier, IN);22146;2013-01-01
+480;Wingtip Toys (Wapinitia, OR);35830;2013-01-01
+481;Wingtip Toys (White Church, MO);36946;2013-01-01
+482;Wingtip Toys (Caton, NY);5664;2013-01-01
+483;Wingtip Toys (Plum Branch, SC);27344;2013-01-01
+484;Wingtip Toys (Mauldin, SC);21282;2013-01-01
+485;Wingtip Toys (Bonner Springs, KS);3545;2013-01-01
+486;Wingtip Toys (Lowellville, OH);20131;2013-01-01
+487;Wingtip Toys (Elverson, PA);10581;2013-01-01
+488;Wingtip Toys (Isabela, PR);16702;2013-01-01
+489;Wingtip Toys (Sayner, WI);30751;2013-01-01
+490;Wingtip Toys (Beals, ME);2230;2013-01-01
+491;Wingtip Toys (Morton Grove, IL);23067;2013-01-01
+492;Wingtip Toys (Birds, IL);3059;2013-01-01
+493;Wingtip Toys (Federalsburg, MD);11427;2013-01-01
+494;Wingtip Toys (Pikeview, CO);26906;2013-01-01
+495;Wingtip Toys (Boalsburg, PA);3409;2013-01-01
+496;Wingtip Toys (Port Hueneme, CA);27577;2013-01-01
+497;Wingtip Toys (Verdery, SC);35223;2013-01-01
+498;Wingtip Toys (Obetz, OH);25121;2013-01-01
+499;Wingtip Toys (East Fultonham, OH);9791;2013-01-01
+500;Wingtip Toys (Obion, TN);25122;2013-01-01
+501;Wingtip Toys (Cavendish, VT);5687;2013-01-01
+502;Wingtip Toys (Miesville, MN);22147;2013-01-01
+503;Wingtip Toys (Valhalla, NC);35008;2013-01-01
+504;Wingtip Toys (Cape Neddick, ME);5259;2013-01-01
+505;Wingtip Toys (Silver Plume, CO);31629;2013-01-01
+506;Wingtip Toys (North Beach Haven, NJ);24530;2013-01-01
+507;Wingtip Toys (Downingtown, PA);9360;2013-01-01
+508;Wingtip Toys (Branson West, MO);3876;2013-01-01
+509;Wingtip Toys (Bergen Park, CO);2739;2013-01-01
+510;Wingtip Toys (Grabill, IN);13507;2013-01-01
+511;Wingtip Toys (North Manitou, MI);24658;2013-01-01
+512;Wingtip Toys (Philip, SD);26788;2013-01-01
+513;Wingtip Toys (Straughn, IN);32993;2013-01-01
+514;Wingtip Toys (Gilford, NH);12992;2013-01-01
+515;Wingtip Toys (Del Valle, TX);8772;2013-01-01
+516;Wingtip Toys (Harkers Island, NC);14628;2013-01-01
+517;Wingtip Toys (Licking, MO);19386;2013-01-01
+518;Wingtip Toys (Raton, NM);28361;2013-01-01
+519;Wingtip Toys (Boynton, OK);3755;2013-01-01
+520;Wingtip Toys (Frenchburg, KY);12341;2013-01-01
+521;Wingtip Toys (Robertsdale, AL);29166;2013-01-01
+522;Wingtip Toys (Dickerson, MD);9064;2013-01-01
+523;Wingtip Toys (Bruceton Mills, WV);4352;2013-01-01
+524;Wingtip Toys (Cloquet, MN);6904;2013-01-01
+525;Wingtip Toys (Claycomo, MO);6687;2013-01-01
+526;Wingtip Toys (Beekmantown, NY);2379;2013-01-01
+527;Wingtip Toys (Islip Terrace, NY);16741;2013-01-01
+528;Wingtip Toys (Rich Creek, VA);28780;2013-01-01
+529;Wingtip Toys (Griswoldville, GA);14072;2013-01-01
+530;Wingtip Toys (East Mountain, TX);9857;2013-01-01
+531;Wingtip Toys (Omer, MI);25424;2013-01-01
+532;Wingtip Toys (Waycross, GA);36179;2013-01-01
+533;Wingtip Toys (Nichols Hills, OK);24349;2013-01-01
+534;Wingtip Toys (Plaquemine, LA);27232;2013-01-01
+535;Wingtip Toys (Triadelphia, WV);34411;2013-01-01
+536;Wingtip Toys (Ferney, SD);11491;2013-01-01
+537;Wingtip Toys (Akhiok, AK);242;2013-01-01
+538;Wingtip Toys (Deeson, MS);8751;2013-01-01
+539;Wingtip Toys (Nuangola, PA);24898;2013-01-01
+540;Wingtip Toys (Weld, ME);36322;2013-01-01
+541;Wingtip Toys (Mickleton, NJ);22020;2013-01-01
+542;Wingtip Toys (Schererville, IN);30790;2013-01-01
+543;Wingtip Toys (Lexington Heights, MI);19338;2013-01-01
+544;Wingtip Toys (Broomtown, AL);4278;2013-01-01
+545;Wingtip Toys (Jamison, IA);16891;2013-01-01
+546;Wingtip Toys (Key Biscayne, FL);17632;2013-01-01
+547;Wingtip Toys (Chaseley, ND);6115;2013-01-01
+548;Wingtip Toys (Indian Creek, IL);16469;2013-01-01
+549;Wingtip Toys (Lake Ronkonkoma, NY);18446;2013-01-01
+550;Wingtip Toys (Morrison Bluff, AR);23026;2013-01-01
+551;Wingtip Toys (Huntingburg, IN);16239;2013-01-01
+552;Wingtip Toys (Shay, PA);31266;2013-01-01
+553;Wingtip Toys (Helotes, TX);15143;2013-01-01
+554;Wingtip Toys (Hollandsburg, IN);15726;2013-01-01
+555;Wingtip Toys (Liberty Grove, MD);19368;2013-01-01
+556;Wingtip Toys (Morita, TX);22984;2013-01-01
+557;Wingtip Toys (New Laguna, NM);24007;2013-01-01
+558;Wingtip Toys (Bourneville, OH);3663;2013-01-01
+559;Wingtip Toys (Mendoza, TX);21821;2013-01-01
+560;Wingtip Toys (Palmas del Mar, PR);26010;2013-01-01
+561;Wingtip Toys (Marion Junction, AL);21002;2013-01-01
+562;Wingtip Toys (Ware Shoals, SC);35861;2013-01-01
+563;Wingtip Toys (Lostine, OR);20047;2013-01-01
+564;Wingtip Toys (Tilleda, WI);34060;2013-01-01
+565;Wingtip Toys (Wapiti, WY);35831;2013-01-01
+566;Wingtip Toys (Amado, AZ);689;2013-01-01
+567;Wingtip Toys (Jeromesville, OH);17039;2013-01-01
+568;Wingtip Toys (Ovilla, TX);25818;2013-01-01
+569;Wingtip Toys (West Frostproof, FL);36513;2013-01-01
+570;Wingtip Toys (Flomaton, AL);11686;2013-01-01
+571;Wingtip Toys (Pawlet, VT);26379;2013-01-01
+572;Wingtip Toys (Trout Run, PA);34466;2013-01-01
+573;Wingtip Toys (Marin City, CA);20961;2013-01-01
+574;Wingtip Toys (Molalla, OR);22604;2013-01-01
+575;Wingtip Toys (Trumansburg, NY);34512;2013-01-01
+576;Wingtip Toys (Goodings Grove, IL);13388;2013-01-01
+577;Wingtip Toys (Cherryplain, NY);6238;2013-01-01
+578;Wingtip Toys (Bell Acres, PA);2436;2013-01-01
+579;Wingtip Toys (Connoquenessing, PA);7432;2013-01-01
+580;Wingtip Toys (Sarversville, PA);30663;2013-01-01
+581;Wingtip Toys (Munich, ND);23441;2013-01-01
+582;Wingtip Toys (Montoya, NM);22814;2013-01-01
+583;Wingtip Toys (Knights Landing, CA);17935;2013-01-01
+584;Wingtip Toys (Cache, OK);4840;2013-01-01
+585;Wingtip Toys (Towaco, NJ);34285;2013-01-01
+586;Wingtip Toys (Lynne, FL);20376;2013-01-01
+587;Wingtip Toys (Plata, TX);27236;2013-01-01
+588;Wingtip Toys (Oak Point, TX);24988;2013-01-01
+589;Wingtip Toys (Alcester, SD);357;2013-01-01
+590;Wingtip Toys (McAdenville, NC);21405;2013-01-01
+591;Wingtip Toys (Idaho City, ID);16382;2013-01-01
+592;Wingtip Toys (Dunkerton, IA);9549;2013-01-01
+593;Wingtip Toys (Cuyamungue, NM);8296;2013-01-01
+594;Wingtip Toys (Marfa, TX);20924;2013-01-01
+595;Wingtip Toys (Accomac, VA);54;2013-01-01
+596;Wingtip Toys (Cos Cob, CT);7695;2013-01-01
+597;Wingtip Toys (Haycock, AK);14965;2013-01-01
+598;Wingtip Toys (Kapa'a, HI);17340;2013-01-01
+599;Wingtip Toys (Dickworsham, TX);9077;2013-01-01
+600;Wingtip Toys (Caro, MI);5407;2013-01-01
+601;Wingtip Toys (Ruthsburg, MD);29887;2013-01-01
+801;Eric Torres;31321;2013-01-01
+802;Cosmina Vlad;5192;2013-01-01
+803;Bala Dixit;33799;2013-01-01
+804;Aleksandrs Riekstins;18069;2013-01-01
+805;Ratan Poddar;10194;2013-01-01
+806;Shi Tu;31685;2013-01-01
+807;Gunnar Lohmus;35810;2013-01-01
+808;Jackson Kolios;28221;2013-01-01
+809;Madhu Dwivedi;26105;2013-01-01
+810;Alena Kellnerova;31006;2013-01-01
+811;Surendra Sahu;25332;2013-01-01
+812;Celica Barajas;9386;2013-01-01
+813;Shyam Poddar;33793;2013-01-01
+814;Johanna Hoornstra;26752;2013-01-01
+815;Libuse Valentova;10388;2013-01-01
+816;Harsha Huq;8892;2013-01-01
+817;Agrita Kanepa;3840;2013-01-01
+818;Liia Orav;3176;2013-01-01
+819;Santiago Vera;24401;2013-01-01
+820;Knut Svensson;20518;2013-01-01
+821;Kwanjai Saowaluk;5633;2013-01-01
+822;Suparna Bhattacharya;34031;2013-01-01
+823;Francisca Laureano;17142;2013-01-01
+824;Risto Valbe;2203;2013-01-01
+825;Jayanta Thakur;28367;2013-01-01
+826;Leila Carvalho;32358;2013-01-01
+827;Crina Grasu;33591;2013-01-01
+828;Sercan Celik;34193;2013-01-01
+829;Jack Walker;10263;2013-01-01
+830;Jana Fialova;36297;2013-01-01
+831;Bhaavan Rai;5966;2013-01-01
+832;Aakriti Byrraju;13242;2013-01-01
+833;Devraj Rao;36841;2013-01-01
+834;Cong Hoa;25971;2013-01-01
+835;Dominic Davignon;34685;2013-01-01
+836;Abel Spirlea;21022;2013-01-01
+837;Anil Sarkar;12666;2013-01-01
+838;Pavel Bogdanov;23870;2013-01-01
+839;Juan Morse;13868;2013-01-01
+840;Rodrigo Figueiredo;3165;2013-01-01
+841;Camille Authier;15;2013-01-01
+842;Biju Deb;8730;2013-01-01
+843;Marija Justina Pasek;20931;2013-01-01
+844;Durdanah Abbasi;18865;2013-01-01
+845;Emilie Hrdlickova;24164;2013-01-01
+846;Malorie Bousquet;35061;2013-01-01
+847;Kristiina Ivanov;37884;2013-01-01
+848;Alvin Bollinger;7938;2013-01-01
+849;Sabine Zalite;14377;2013-01-01
+850;Daakshaayaani Sankaramanchi;32359;2013-01-01
+851;Ebru Erdogan;31009;2013-01-01
+852;Bhagavaan Atluri;7525;2013-01-01
+853;Caterina Pinto;242;2013-01-01
+854;Daakshaayaani Kommineni;1775;2013-01-01
+855;Anna Mazzanti;16185;2013-01-01
+856;Satish Mittal;9433;2013-01-01
+857;Clarissa Manfrin;2614;2013-01-01
+858;Bimla PrabhupÄda;38038;2013-01-01
+859;Shah Alizadeh;12751;2013-01-01
+860;Marcela Lucescu;11010;2013-01-01
+861;Amarasimha Vinjamuri;24553;2013-01-01
+862;Lana Goransson;6124;2013-01-01
+863;Jakub Lukes;9701;2013-01-01
+864;Mikhail Degtyarev;2291;2013-01-01
+865;Bijoya Thakur;17730;2013-01-01
+866;Jay Bhuiyan;23264;2013-01-01
+867;Jasna Cerkez;10367;2013-01-01
+868;Laura Sykorova;7861;2013-01-01
+869;Abel Tatarescu;18110;2013-01-01
+870;In-Su Bae;21638;2013-01-01
+871;Darshana Madhunapantula;34181;2013-01-01
+872;Katerina Hadrabova;18141;2013-01-01
+873;Hana Hlouskova;22915;2013-01-01
+874;Daniel Martensson;20668;2013-01-01
+875;Philip Walker;35605;2013-01-01
+876;Marie LeBatelier;7781;2013-01-01
+877;Leyla Siavashi;20902;2013-01-01
+878;Miriam House;20610;2013-01-01
+879;Jitka Necesana;7403;2013-01-01
+880;Edmee Glissen;21432;2013-01-01
+881;Magdalena Michnova;37885;2013-01-01
+882;Maryann Huddleston;29165;2013-01-01
+883;Radha Barua;21604;2013-01-01
+884;Anindya Ghatak;33446;2013-01-01
+885;Chandrashekhar Dasgupta;24076;2013-01-01
+886;Debbie Molina;12693;2013-01-01
+887;Baran Jonsson;5682;2013-01-01
+888;Jai Lamble;14043;2013-01-01
+889;Sointu Savonheimo;1121;2013-01-01
+890;Olya Izmaylov;11753;2013-01-01
+891;Taneli Riutta;30517;2013-01-01
+892;Bahaar Asef zade;372;2013-01-01
+893;Leyla Asef zade;36499;2013-01-01
+894;Gabriela Hernandes;8317;2013-01-01
+895;Geza Roman;25795;2013-01-01
+896;Leonardo Folliero;7749;2013-01-01
+897;Allan Mannik;18337;2013-01-01
+898;Gopalgobinda Sikdar;25639;2013-01-01
+899;Chin-Sun Chang;5247;2013-01-01
+900;Lilli Sokk;14033;2013-01-01
+901;Adrian Andreasson;9445;2013-01-01
+902;Kamila Michnova;33867;2013-01-01
+903;Bing Han;8493;2013-01-01
+904;Olafs Rozitis;31401;2013-01-01
+905;Sara Huiting;3425;2013-01-01
+906;Ajitaab Pakalapati;5506;2013-01-01
+907;Eugen Agafitei;31249;2013-01-01
+908;Sumati Bhat;14591;2013-01-01
+909;Dena Glissen;7050;2013-01-01
+910;Elina Kaleja;13333;2013-01-01
+911;Liidia Lepp;25078;2013-01-01
+912;Volkan senturk;37938;2013-01-01
+913;Violetta KlanCisar;2175;2013-01-01
+914;Chandana Shasthri;23796;2013-01-01
+915;Ana Florea;4430;2013-01-01
+916;Pinja Jantunen;23734;2013-01-01
+917;Pari Hosseini;31936;2013-01-01
+918;Isidora Morales;34699;2013-01-01
+919;Kertu Sokk;14019;2013-01-01
+920;Gayatri Gajula;31348;2013-01-01
+921;Victoria Lacusta;7408;2013-01-01
+922;Sumati Chatterjee;24668;2013-01-01
+923;Tai Bach;12040;2013-01-01
+924;Eva Schulteisz;15461;2013-01-01
+925;Can ozcan;25354;2013-01-01
+926;Richard Friar;24589;2013-01-01
+927;Matyas Sedlar;4977;2013-01-01
+928;Arijit Bhuiyan;10831;2013-01-01
+929;Vladimir Henzl;27559;2013-01-01
+930;Shantanu Huq;7890;2013-01-01
+931;Nada Jovanovic;24764;2013-01-01
+932;Nicolo Cattaneo;30803;2013-01-01
+933;Joel Carrillo;9427;2013-01-01
+934;Ivan Sepulveda;24805;2013-01-01
+935;Daevasree Samavedam;13360;2013-01-01
+936;Ludmila Smidova;33747;2013-01-01
+937;Manca Hrastovsek;32267;2013-01-01
+938;Anna Gyarmathi;17329;2013-01-01
+939;Ioana Florea;23550;2013-01-01
+940;Lorin Astrom;27543;2013-01-01
+941;Bishwa Chatterjee;18332;2013-01-01
+942;Chaayaadaevi Sonti;29123;2013-01-01
+943;Drazenka Jelic;6221;2013-01-01
+944;Ida Celma;14931;2013-01-01
+945;Hoc Tran;36973;2013-01-01
+946;David safranek;34280;2013-01-01
+947;Svetlana Todorovic;35193;2013-01-01
+948;Richard Zahradnicek;16893;2013-01-01
+949;Seo-yun Paik;17151;2013-01-01
+950;Emily Whittle;16257;2013-01-01
+951;Eliza Persson;17053;2013-01-01
+952;Chuan Wattanasin;11626;2013-01-01
+953;Linh Dao;21191;2013-01-01
+954;Nasrin Omidzadeh;21161;2013-01-01
+955;Raghu Sandhu;3700;2013-01-01
+956;Nhung Thach;28502;2013-01-01
+957;Hee-Young Suh;24340;2013-01-01
+958;Valentin Tirlea;26769;2013-01-01
+959;Dhaatri Chavva;10059;2013-01-01
+960;Edgar Jogi;3501;2013-01-01
+961;Rani Ganguly;1246;2013-01-01
+962;Bhagavati Vinjamuri;11008;2013-01-01
+963;Be Trang;36091;2013-01-01
+964;Ingrida Zeltina;34422;2013-01-01
+965;Phoung Cu;21427;2013-01-01
+966;Sara Walkky;6402;2013-01-01
+967;Meera Patel;14492;2013-01-01
+968;Anca Gogean;1245;2013-01-01
+969;Staffan Persson;26778;2013-01-01
+970;Isidora Urias;3894;2013-01-01
+971;Dhanishta Mokkapati;16416;2013-01-01
+972;Lakshmi Benipal;19839;2013-01-01
+973;Kumar Kamei;22085;2013-01-01
+974;Emil Roman;18004;2013-01-01
+975;Prabodh Nair;34530;2013-01-01
+976;Alinne Matos;30906;2013-01-01
+977;Mauno Laurila;24590;2013-01-01
+978;Baalaamjali Devulapalli;28032;2013-01-01
+979;Melani Ravlen;7485;2013-01-01
+980;Om Yadav;20270;2013-01-01
+981;Mahmut ozbek;2782;2013-01-01
+982;Yves Belisle;35635;2013-01-01
+983;Sabine Alksne;13669;2013-01-01
+984;Kamala Nishad;14268;2013-01-01
+985;Roko Ilic;13692;2013-01-01
+986;Neil Farrelly;29938;2013-01-01
+987;Akhil Nadar;30779;2013-01-01
+988;Maksims Krastins;19979;2013-01-01
+989;Milinka Zujovic;38184;2013-01-01
+990;Andris Saulitis;10233;2013-01-01
+991;Valter Viiding;8294;2013-01-01
+992;Amarakumaar Gadiyaram;35503;2013-01-01
+993;Gasper Havzija;31323;2013-01-01
+994;Libuse Kuchtova;35082;2013-01-01
+995;Kumar Naicker;25170;2013-01-01
+996;Laszlo Gardenier;21001;2013-01-01
+997;Nada Ana Slosar;6907;2013-01-01
+998;Mahavir Sonkar;26300;2013-01-01
+999;Kristi Part;38036;2013-01-01
+1000;Krishnam Allu;5645;2013-01-01
+1001;Dinh Mai;9258;2013-01-27
+1002;Stefan Selezeanu;7529;2013-02-22
+1003;Hue Ton;15689;2013-03-25
+1004;Drishti Bose;36434;2013-04-01
+1005;Bhadram Kamasamudram;36365;2013-04-06
+1006;Taj Syme;25083;2013-04-10
+1007;Irma Berzina;24180;2013-04-13
+1008;Vedrana Kovacevic;28434;2013-04-14
+1009;Bhagavateeprasaad Malladi;13896;2013-05-03
+1010;Serdar ozCelik;8562;2013-05-06
+1011;Rajeev Sandhu;35951;2013-06-11
+1012;Urve Kasesalu;6206;2013-06-16
+1013;Annette  Hetu;14522;2013-06-22
+1014;Narendra Tickoo;9099;2013-07-18
+1015;Isa Hulsegge;30734;2013-08-01
+1016;Aive Petrov;35470;2013-08-10
+1017;"David Novacek ";7668;2013-08-15
+1018;Nils Kaulins;14041;2013-09-08
+1019;Dhanishta Pullela;12563;2013-10-03
+1020;Hai Banh;6574;2013-10-23
+1021;Fabrice Cloutier;32558;2013-11-19
+1022;Nadir Seddigh;3048;2013-11-25
+1023;Farzana Habibi;4270;2013-12-01
+1024;Arka Chatterjee;4795;2013-12-26
+1025;Tuulikki Linna;25771;2014-01-15
+1026;Daniella Cavalcante;28385;2014-01-17
+1027;Serdar ozden;28817;2014-02-22
+1028;Emma Van Zant;37886;2014-05-14
+1029;Veronika Necesana;9331;2014-05-18
+1030;Chompoo Atitarn;1326;2014-06-18
+1031;Dipti Shah;30830;2014-08-03
+1032;Som Mukherjee;22998;2014-08-25
+1033;Cuneyt Arslan;17992;2014-08-26
+1034;Aishwarya Dantuluri;3018;2014-09-03
+1035;Manjunatha Karnik;37898;2014-11-08
+1036;Erik Malk;2053;2014-11-13
+1037;David Jaramillo;28918;2014-11-21
+1038;Damodara Trivedi;33644;2014-12-03
+1039;Bhaamini Palagummi;18410;2015-01-13
+1040;Damodar Shenoy;30865;2015-01-16
+1041;Tomo Vidovic;34371;2015-01-18
+1042;Nguyen Banh;11696;2015-01-22
+1043;Raj Verma;7113;2015-01-30
+1044;Hanita Nookala;21650;2015-02-12
+1045;Matteo Cattaneo;24352;2015-02-22
+1046;Christian Couet;13799;2015-06-12
+1047;Ivana Hadrabova;18648;2015-07-28
+1048;Abhra Ganguly;35684;2015-08-09
+1049;Amet Shergill;37988;2015-08-13
+1050;Amrita Ganguly;26010;2015-09-23
+1051;Sylvie Laramee;16702;2015-09-24
+1052;Ian Olofsson;19374;2015-09-26
+1053;Luis Saucedo;19507;2015-11-27
+1054;Emma Salpa;29391;2015-11-29
+1055;Adriana Pena;29158;2015-11-30
+1056;Kalyani Benjaree;3714;2015-12-20
+1057;Ganesh Majumdar;25608;2016-01-09
+1058;Jaroslav Fisar;31564;2016-02-01
+1059;Jibek Juniskyzy;10483;2016-03-13
+1060;Anand Mudaliyar;22090;2016-04-23
+1061;Agrita Abele;19881;2016-05-07
