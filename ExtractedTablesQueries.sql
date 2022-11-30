@@ -57,7 +57,6 @@ FROM
 	Sales.Customers
 
 --WWI_NewStockItemsGroups.csv
-
 SELECT
 	subquery.subqueryStockItemID,
 	subqueryNewStockGroupName,
