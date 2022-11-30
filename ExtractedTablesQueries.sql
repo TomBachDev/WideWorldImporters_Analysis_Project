@@ -55,3 +55,28 @@ SELECT
 	AccountOpenedDate AS 'AccountOpenedDate'
 FROM
 	Sales.Customers
+
+--WWI_NewStockItemsGroups.csv
+
+SELECT
+	subquery.subqueryStockItemID,
+	subqueryNewStockGroupName,
+	SI.StockItemName
+FROM
+	(SELECT 
+		SISG.StockItemID AS 'subqueryStockItemID',
+		STRING_AGG(StockGroupName, '; ') AS 'subqueryNewStockGroupName'
+	FROM 
+		Warehouse.StockItemStockGroups AS SISG
+		LEFT JOIN
+		Warehouse.StockGroups AS SG
+		ON SISG.StockGroupID=SG.StockGroupID
+			LEFT JOIN
+			Warehouse.StockItems AS SI
+			ON SISG.StockItemID=SI.StockItemID
+	GROUP BY
+		SISG.StockItemID
+	) AS subquery
+	LEFT JOIN
+	Warehouse.StockItems AS SI
+	ON subquery.subqueryStockItemID=SI.StockItemID
